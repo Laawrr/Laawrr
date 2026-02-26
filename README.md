@@ -1,50 +1,10 @@
 <div align="center">
 
-<!-- HELLO IM LAWR — best-in-class font stack + gradient + glow -->
-<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff6b6b;">
-        <animate attributeName="stop-color" values="#ff6b6b;#feca57;#48dbfb;#ff9ff3;#ff6b6b" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" style="stop-color:#48dbfb;">
-        <animate attributeName="stop-color" values="#48dbfb;#ff9ff3;#ff6b6b;#feca57;#48dbfb" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#ff9ff3;">
-        <animate attributeName="stop-color" values="#ff9ff3;#ff6b6b;#feca57;#48dbfb;#ff9ff3" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#grad)" filter="url(#glow)" font-family="'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="2">HELLO IM LAWR</text>
-</svg>
+<!-- HELLO IM LAWR — image so gradient + style work everywhere (GitHub, Cursor, etc.) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,135&text=HELLO%20IM%20LAWR&fontSize=42&fontAlignY=40&height=120" width="100%" alt="HELLO IM LAWR" />
 
-<!-- Moving RGB gradient breakline -->
-<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg" style="margin: 8px 0;">
-  <defs>
-    <linearGradient id="rgbLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:rgb(255,0,0);">
-        <animate attributeName="stop-color" values="rgb(255,0,0);rgb(255,127,0);rgb(255,255,0);rgb(0,255,0);rgb(0,255,255);rgb(0,0,255);rgb(255,0,255);rgb(255,0,0)" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="33%" style="stop-color:rgb(0,255,0);">
-        <animate attributeName="stop-color" values="rgb(0,255,255);rgb(255,0,255);rgb(255,0,0);rgb(255,127,0);rgb(255,255,0);rgb(0,255,0);rgb(0,255,255);rgb(0,255,255)" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="66%" style="stop-color:rgb(0,0,255);">
-        <animate attributeName="stop-color" values="rgb(255,0,255);rgb(255,0,0);rgb(255,127,0);rgb(255,255,0);rgb(0,255,0);rgb(0,255,255);rgb(0,0,255);rgb(255,0,255)" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:rgb(255,0,255);">
-        <animate attributeName="stop-color" values="rgb(255,0,0);rgb(255,127,0);rgb(255,255,0);rgb(0,255,0);rgb(0,255,255);rgb(0,0,255);rgb(255,0,255);rgb(255,0,0)" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="6" y="7" rx="3" fill="url(#rgbLine)"/>
-</svg>
+<!-- RGB gradient breakline — image so it always shows (animated GIF for “moving” effect) -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-69828243bc37.gif" width="100%" height="8" alt="" />
 
 ### Developer · Builder · Creator
 
