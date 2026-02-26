@@ -39,5 +39,5 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
 
 <p>
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpbzNkcjNhMXNsem52Z2pmZXMwenhxMzUxMWw5N2N2dDJ0azhmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgGMcxMm8tQwS4kmZE/giphy.gif" />
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpbzNkcjNhMXNsem52Z2pmZXMwenhxMzUxMWw5N2N2dDJ0azhmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgGMcxMm8tQwS4kmZE/giphy.gif" width="100%" />
 </p>
