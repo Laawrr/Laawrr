@@ -29,7 +29,7 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 
 ### Reach Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/laawrr)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
 
 ### GitHub Stats
