@@ -38,8 +38,6 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
 
-### GitHub Stats
-
 <p>
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpbzNkcjNhMXNsem52Z2pmZXMwenhxMzUxMWw5N2N2dDJ0azhmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgGMcxMm8tQwS4kmZE/giphy.gif" />
 </p>
