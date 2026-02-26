@@ -34,10 +34,11 @@
 ### Reach Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/laawrr" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/laawrr" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
   </a>
-  <a href="mailto:lawrencekie8@gmail.com">
+  
+  <a href="mailto:lawrencekie8@gmail.com" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
   </a>
 </div>
