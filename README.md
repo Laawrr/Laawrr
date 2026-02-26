@@ -38,14 +38,9 @@
 ## 🎬 Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280" />
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="320" />
-  <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="320" />
 </p>
 
 ---
