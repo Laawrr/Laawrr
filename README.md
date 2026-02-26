@@ -2,7 +2,7 @@
 
 ### Tools & Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="42" height="42" />
@@ -33,8 +33,11 @@
 
 ### Reach Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
+<p align="center">
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
+</p>
+
 
 
 
