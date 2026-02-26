@@ -34,7 +34,7 @@
 ### Reach Me
 
 <div align="center">
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr) &nbsp;&nbsp;
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr)  
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
 </div>
 
