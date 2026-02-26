@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=777777&width=435&lines=HELLO+THERE+I'M+LAWR)](https://git.io/typing-svg)
 
+- Contact me here: lawrencekie8@gmail.com
+
 ### Tools & Languages
 
 <p align="center">
@@ -33,16 +35,7 @@
 
 ### Reach Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/laawrr" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
-  </a>
-  
-  <a href="mailto:lawrencekie8@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
-  </a>
-</div>
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr)
 
 <p>
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpbzNkcjNhMXNsem52Z2pmZXMwenhxMzUxMWw5N2N2dDJ0azhmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgGMcxMm8tQwS4kmZE/giphy.gif" width="100%" />
