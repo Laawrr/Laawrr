@@ -33,10 +33,10 @@
 
 ### Reach Me
 
-<p align="center">
+<div align="center">
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr) &nbsp;&nbsp;
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
-</p>
+</div>
 
 
 <p>
