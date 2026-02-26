@@ -3,10 +3,9 @@
 ---
 Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code and building things that matter. I enjoy clean design, solid engineering, and learning something new every day.
 
-I'm interested in **full‑stack development**, **UI/UX**, and **open source**. Right now I'm diving deeper into React, Node, and modern tooling. When I'm not coding, I like to stay curious—whether that's reading, tinkering, or exploring new tech.
 
 **Skills:**  
-Community & collaboration · Web development · Problem solving · Project organization
+Community & collaboration · Web development · Problem solving · Cybersecurity
 
 **Tools:**
 
@@ -14,5 +13,6 @@ Community & collaboration · Web development · Problem solving · Project organ
 
 ---
 **REACH ME**
+
 [![GitHub](https://img.shields.io/badge/GitHub-@Laawrr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laawrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
