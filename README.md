@@ -29,7 +29,7 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 
 ### Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin")](https://linkedin.com/in)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ### GitHub Stats
