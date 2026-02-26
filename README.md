@@ -4,32 +4,32 @@
 ### Tools & Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Cybersecurity" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=gcp" alt="GoogleCloud" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" alt="VisualStudio" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="42" height="42" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Cybersecurity" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42" />  
 </p>
 
 ### Connect with Me
