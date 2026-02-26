@@ -30,14 +30,7 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
   <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="VisualStudio" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="42" height="42" />
-  
-  
-  
-  
-  
-  
-  
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="42" height="42" />  
 </p>
 
 ### Reach Me
@@ -48,5 +41,5 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 ### GitHub Stats
 
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laawrr&background=FFFFFF&ring=9D4EDD&fire=C77DFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=9D4EDD" />
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpbzNkcjNhMXNsem52Z2pmZXMwenhxMzUxMWw5N2N2dDJ0azhmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgGMcxMm8tQwS4kmZE/giphy.gif" />
 </p>
