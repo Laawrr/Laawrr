@@ -24,7 +24,6 @@ Community & collaboration · Web development · Problem solving · Project organ
 - ⚙️ I'm currently working on this page and a few side projects.
 - 🌱 I'm currently learning React, Node, and system design.
 - 🗣️ How to reach me: [Twitter](https://twitter.com) · [LinkedIn](https://linkedin.com/in) · [Email](mailto:your@email.com)
-- 😊 Pronouns: They/Them *(edit to yours)*
 - ⚡ Fun fact: I like minimal design and cats.
 
 ---
