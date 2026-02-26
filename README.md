@@ -1,5 +1,11 @@
 <div align="center">
 
+<div style="max-width: 960px; margin: 0 auto; padding: 32px 20px 24px; border-radius: 28px; background:
+  radial-gradient(circle at top left, rgba(56, 189, 248, 0.28), transparent 60%),
+  radial-gradient(circle at bottom right, rgba(129, 140, 248, 0.25), transparent 55%),
+  linear-gradient(135deg, #020617 0%, #020617 30%, #0b1120 70%, #020617 100%);
+  border: 1px solid rgba(148, 163, 184, 0.45); box-shadow: 0 28px 80px rgba(15, 23, 42, 0.90);">
+
 <!-- Animated HELLO IM LAWR with gradient + glow -->
 <svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -139,5 +145,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Laawrr&color=ff6b6b&style=flat-square&label=Profile+Views)
 
 *Thanks for stopping by — have a great day!* 🌟
+
+</div>
 
 </div>
