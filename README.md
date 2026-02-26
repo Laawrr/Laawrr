@@ -12,19 +12,33 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Cybersecurity" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="GoogleCloud" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="VisualStudio" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="42" height="42" />
+  
+  
+  
+  
+  
+  
+  
 </p>
 
 ### Reach Me
