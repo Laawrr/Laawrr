@@ -1,12 +1,7 @@
-<div align="center">
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello%20I'm%20Lawr&textBg=false&fontColor=CE04F7FF&fontSize=50&animation=fadeIn" width="100%" alt="Hello, my name is Lawr" /> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=CE04F7&background=AB05FF00&width=435&lines=HELLO+THERE)](https://git.io/typing-svg)
 
 ---
-
-</div>
 
 Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code and building things that matter. I enjoy clean design, solid engineering, and learning something new every day.
 
