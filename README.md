@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HELLO IM LAWR — image so gradient + style work everywhere (GitHub, Cursor, etc.) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,135&text=HELLO%20IM%20LAWR&fontSize=42&fontAlignY=40&height=120" width="100%" alt="HELLO IM LAWR" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HELLO%20IM%20LAWR&fontSize=42&fontAlignY=40&height=120" width="100%" alt="HELLO IM LAWR" />
 
 <!-- RGB gradient breakline — image so it always shows (animated GIF for “moving” effect) -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
