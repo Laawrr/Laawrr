@@ -15,12 +15,12 @@ Community & collaboration · Web development · Problem solving · Cybersecurity
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/React-?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Git-?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Python-?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -37,10 +37,10 @@ Community & collaboration · Web development · Problem solving · Cybersecurity
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Laawrr&show_icons=true&theme=radical" alt="Lawr's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Laawrr&show_icons=true&theme=radical&cache_seconds=1800" alt="Lawr's GitHub stats" />
 </p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laawrr&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laawrr&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laawrr&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
