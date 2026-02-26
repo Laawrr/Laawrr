@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="42" height="42" />  
 </p>
 
-### Reach Me
+### Connect with Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr)
 
