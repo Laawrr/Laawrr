@@ -20,7 +20,6 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Cybersecurity" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="42" height="42" />
