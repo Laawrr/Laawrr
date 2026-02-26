@@ -10,7 +10,7 @@
 
 *Turning ideas into code and coffee into commits*
 
-![rainbow bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&width=1000)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
 
 ## 🔗 Links
 
@@ -20,7 +20,7 @@
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in) | [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge)](https://) |
 | [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com) | [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) |
 
-![rainbow bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&width=1000)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
 
 ## 🎬 Vibes
 
@@ -30,7 +30,7 @@
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="280" height="280" />
 </p>
 
-![rainbow bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&width=1000)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
 
 ## 💻 Languages
 
@@ -82,6 +82,6 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-![rainbow bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&width=1000)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
 
 </div>
