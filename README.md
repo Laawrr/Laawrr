@@ -29,11 +29,11 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 
 ### Reach Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/laawrr)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
 
 ### GitHub Stats
 
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laawrr&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=FFFFFF&sideLabels=9D4EDD&dates=FFFFFF&stroke=9D4EDD" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laawrr&background=FFFFFF&ring=9D4EDD&fire=C77DFF&currStreakLabel=FFFFFF&sideLabels=9D4EDD&dates=FFFFFF&stroke=9D4EDD" />
 </p>
