@@ -30,7 +30,7 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 ### Reach Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
 
 ### GitHub Stats
 
