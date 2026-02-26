@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&text=Hello,%20my%20name%20is%20Lawr&section=Let's%20Connect!&fontSize=28&fontAlignY=35&height=120&color=0:0:0&fontColor=ffffff&sectionSize=16&sectionColor=cccccc" width="100%" alt="Hello, my name is Lawr" />
 
-**Twitter** [@yourhandle](https://twitter.com) · **LinkedIn** [yourname](https://linkedin.com/in) · **GitHub** [@Laawrr](https://github.com/Laawrr)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=CE04F7&background=AB05FF00&width=435&lines=HELLO+THERE)](https://git.io/typing-svg)
 
 ---
 
 </div>
-
-## Hi there 👋
 
 Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code and building things that matter. I enjoy clean design, solid engineering, and learning something new every day.
 
