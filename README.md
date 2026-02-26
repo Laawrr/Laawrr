@@ -1,12 +1,6 @@
 <div align="center">
 
-<div style="max-width: 960px; margin: 0 auto; padding: 32px 20px 24px; border-radius: 28px; background:
-  radial-gradient(circle at top left, rgba(56, 189, 248, 0.28), transparent 60%),
-  radial-gradient(circle at bottom right, rgba(129, 140, 248, 0.25), transparent 55%),
-  linear-gradient(135deg, #020617 0%, #020617 30%, #0b1120 70%, #020617 100%);
-  border: 1px solid rgba(148, 163, 184, 0.45); box-shadow: 0 28px 80px rgba(15, 23, 42, 0.90);">
-
-<!-- Animated HELLO IM LAWR with gradient + glow -->
+<!-- HELLO IM LAWR — best-in-class font stack + gradient + glow -->
 <svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -28,23 +22,28 @@
       </feMerge>
     </filter>
   </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#grad)" filter="url(#glow)" font-family="system-ui, 'Segoe UI', sans-serif" font-size="48" font-weight="800">HELLO IM LAWR</text>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#grad)" filter="url(#glow)" font-family="'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="2">HELLO IM LAWR</text>
 </svg>
 
-<!-- Subtle wave / movement line -->
-<svg width="320" height="24" xmlns="http://www.w3.org/2000/svg" style="margin: 8px 0;">
-  <path d="M0 12 Q 40 0, 80 12 T 160 12 T 240 12 T 320 12" stroke="url(#grad2)" stroke-width="3" fill="none" stroke-linecap="round">
-    <animate attributeName="d" dur="2s" repeatCount="indefinite"
-      values="M0 12 Q 40 0, 80 12 T 160 12 T 240 12 T 320 12;
-              M0 12 Q 40 24, 80 12 T 160 12 T 240 12 T 320 12;
-              M0 12 Q 40 0, 80 12 T 160 12 T 240 12 T 320 12"/>
-  </path>
+<!-- Moving RGB gradient breakline -->
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg" style="margin: 8px 0;">
   <defs>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#667eea"/>
-      <stop offset="100%" stop-color="#764ba2"/>
+    <linearGradient id="rgbLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgb(255,0,0);">
+        <animate attributeName="stop-color" values="rgb(255,0,0);rgb(255,127,0);rgb(255,255,0);rgb(0,255,0);rgb(0,255,255);rgb(0,0,255);rgb(255,0,255);rgb(255,0,0)" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="33%" style="stop-color:rgb(0,255,0);">
+        <animate attributeName="stop-color" values="rgb(0,255,255);rgb(255,0,255);rgb(255,0,0);rgb(255,127,0);rgb(255,255,0);rgb(0,255,0);rgb(0,255,255);rgb(0,255,255)" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="66%" style="stop-color:rgb(0,0,255);">
+        <animate attributeName="stop-color" values="rgb(255,0,255);rgb(255,0,0);rgb(255,127,0);rgb(255,255,0);rgb(0,255,0);rgb(0,255,255);rgb(0,0,255);rgb(255,0,255)" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:rgb(255,0,255);">
+        <animate attributeName="stop-color" values="rgb(255,0,0);rgb(255,127,0);rgb(255,255,0);rgb(0,255,0);rgb(0,255,255);rgb(0,0,255);rgb(255,0,255);rgb(255,0,0)" dur="3s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
   </defs>
+  <rect width="100%" height="6" y="7" rx="3" fill="url(#rgbLine)"/>
 </svg>
 
 ### Developer · Builder · Creator
@@ -75,15 +74,6 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="320" />
   <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="320" />
 </p>
-
----
-
-## ✨ What I'm up to
-
-- 🔭 **Building** — something cool
-- 🌱 **Learning** — new tech every day
-- 💬 **Ask me** — about code, design, or life
-- ⚡ **Fun fact** — I make READMEs that move
 
 ---
 
@@ -138,14 +128,5 @@
 </p>
 
 ---
-
-<!-- Bouncing / pulse style badge -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Laawrr&color=ff6b6b&style=flat-square&label=Profile+Views)
-
-*Thanks for stopping by — have a great day!* 🌟
-
-</div>
 
 </div>
