@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=C200FF&background=AB05FF00&width=435&lines=HELLO+THERE+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code and building things that matter. I enjoy clean design, solid engineering, and learning something new every day.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=777777&width=435&lines=HELLO+THERE+I'M+LAWR)](https://git.io/typing-svg)
 
 ### Tools & Languages
 
@@ -37,6 +35,8 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laawrr)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lawrencekie8@gmail.com)
+
+
 
 <p>
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpbzNkcjNhMXNsem52Z2pmZXMwenhxMzUxMWw5N2N2dDJ0azhmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgGMcxMm8tQwS4kmZE/giphy.gif" width="100%" />
