@@ -35,5 +35,5 @@ Hello! My name is **Lawr**. I'm a developer who loves turning ideas into code an
 ### GitHub Stats
 
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laawrr&background=FFFFFF&ring=9D4EDD&fire=C77DFF&currStreakLabel=FFFFFF&sideLabels=9D4EDD&dates=FFFFFF&stroke=9D4EDD" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laawrr&background=FFFFFF&ring=9D4EDD&fire=C77DFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=9D4EDD" />
 </p>
