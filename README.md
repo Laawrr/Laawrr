@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=777777&width=435&lines=HELLO+THERE+I'M+LAWR)](https://git.io/typing-svg)
-
 - Contact me here: lawrencekie8@gmail.com
 
 ### Tools & Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="42" height="42" />
