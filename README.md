@@ -4,20 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,135&text=HELLO%20IM%20LAWR&fontSize=42&fontAlignY=40&height=120" width="100%" alt="HELLO IM LAWR" />
 
 <!-- RGB gradient breakline — image so it always shows (animated GIF for “moving” effect) -->
-<svg width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff0000"/>
-      <stop offset="16%" stop-color="#ff8800"/>
-      <stop offset="33%" stop-color="#ffff00"/>
-      <stop offset="50%" stop-color="#00cc00"/>
-      <stop offset="66%" stop-color="#00ccff"/>
-      <stop offset="83%" stop-color="#0066ff"/>
-      <stop offset="100%" stop-color="#cc00ff"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="10" fill="url(#rainbow)" rx="5"/>
-</svg>
+![rainbow bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
 
 ### Developer · Builder · Creator
 
