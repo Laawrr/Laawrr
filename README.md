@@ -81,7 +81,7 @@ Full-Stack Developer and Cybersecurity Specialist building secure, production-re
   </a>
 </p>
 
-## Visuals
+### 
+###
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50%" alt="Full Stack Development GIF" />
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50%" alt="Cybersecurity GIF" />
+<img src="https://media.giphy.com/media/sXv0vaA4331Ti/giphy.gif" width="100%" alt="cat" />
