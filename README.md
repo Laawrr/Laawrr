@@ -72,6 +72,8 @@ Full-Stack Developer and Cybersecurity Specialist building secure, production-re
 </p>
 
 ## Connect With Me
+
+### 
 <p align="center">
   <a href="mailto:lawrencekie8@gmail.com">
     <img src="https://img.shields.io/badge/Email-lawrencekie8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
