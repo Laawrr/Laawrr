@@ -12,13 +12,32 @@
 Full-Stack Developer and Cybersecurity Specialist building secure, production-ready applications.
 
 ## Specializations
-`Full-Stack Engineering` `Application Security` `API Security` `Cloud-Ready Systems`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### Full-Stack Engineering
+- Frontend architecture
+- Backend APIs and services
+- Cloud-ready deployments
+
+    </td>
+    <td width="50%" valign="top">
+
+### Cybersecurity
+- Secure coding and code review
+- Web and API security (OWASP)
+- Threat modeling and hardening
+
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Secure%20Coding-22c55e?style=flat-square&logo=hackthebox&logoColor=white" alt="Secure Coding" />
-  <img src="https://img.shields.io/badge/OWASP%20Mindset-0f172a?style=flat-square" alt="OWASP Mindset" />
-  <img src="https://img.shields.io/badge/Threat%20Modeling-1e293b?style=flat-square" alt="Threat Modeling" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Aware-334155?style=flat-square" alt="Vulnerability Aware" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-0f172a?style=flat-square" alt="OWASP Top 10" />
+  <img src="https://img.shields.io/badge/API%20Security-1e293b?style=flat-square" alt="API Security" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-334155?style=flat-square" alt="Threat Modeling" />
   <img src="https://img.shields.io/badge/Linux%20Hardening-475569?style=flat-square" alt="Linux Hardening" />
 </p>
 
@@ -70,13 +89,6 @@ Full-Stack Developer and Cybersecurity Specialist building secure, production-re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="42" height="42" />
 </p>
 
-### Security Focus
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-0f172a?style=for-the-badge" alt="OWASP Top 10" />
-  <img src="https://img.shields.io/badge/API-Security%20Testing-1e293b?style=for-the-badge" alt="API Security Testing" />
-  <img src="https://img.shields.io/badge/SDLC-Secure%20Development-334155?style=for-the-badge" alt="Secure Development" />
-</p>
-
 ## Connect With Me
 <p align="center">
   <a href="mailto:lawrencekie8@gmail.com">
@@ -86,3 +98,15 @@ Full-Stack Developer and Cybersecurity Specialist building secure, production-re
     <img src="https://img.shields.io/badge/LinkedIn-laawrr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+## Visuals
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" alt="Full Stack Development GIF" />
+    </td>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%" alt="Cybersecurity GIF" />
+    </td>
+  </tr>
+</table>
