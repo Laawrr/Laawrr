@@ -11,28 +11,6 @@
 ## Lawrence (Laawrr)
 Full-Stack Developer and Cybersecurity Specialist building secure, production-ready applications.
 
-## Specializations
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### Full-Stack Engineering
-- Frontend architecture
-- Backend APIs and services
-- Cloud-ready deployments
-
-    </td>
-    <td width="50%" valign="top">
-
-### Cybersecurity
-- Secure coding and code review
-- Web and API security (OWASP)
-- Threat modeling and hardening
-
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Secure%20Coding-22c55e?style=flat-square&logo=hackthebox&logoColor=white" alt="Secure Coding" />
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-0f172a?style=flat-square" alt="OWASP Top 10" />
