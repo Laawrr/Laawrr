@@ -13,8 +13,9 @@
 Full-Stack Developer and Cybersecurity Specialist building secure, production-ready applications.
 </div>
 
+### 
 
-<p align="center">
+<p align="center" >
   <img src="https://img.shields.io/badge/Secure%20Coding-22c55e?style=flat-square&logo=hackthebox&logoColor=white" alt="Secure Coding" />
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-0f172a?style=flat-square" alt="OWASP Top 10" />
   <img src="https://img.shields.io/badge/API%20Security-1e293b?style=flat-square" alt="API Security" />
