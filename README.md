@@ -1,38 +1,25 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=777777&width=760&lines=Hello%2C+I'm+Lawrence+%28Laawrr%29;Full-Stack+Developer+%26+Cybersecurity+Specialist;Building+secure%2C+scalable+web+and+mobile+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Lawrence+%28Laawrr%29;Full-Stack+Developer+%7C+Cybersecurity+Specialist;Secure+Code.+Scalable+Systems.+Defensive+Mindset.)](https://git.io/typing-svg)
 
-![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer%20%26%20Cybersecurity%20Specialist-0A66C2?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Secure%20Systems%20%7C%20Web%20%7C%20Mobile-111827?style=for-the-badge)
-![Status](https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer%20%2B%20Cybersecurity%20Specialist-0f172a?style=for-the-badge&logo=github)
+![Focus](https://img.shields.io/badge/Focus-Application%20Security%20%7C%20Web%20%7C%20Cloud-111827?style=for-the-badge)
+![Mode](https://img.shields.io/badge/Approach-Security%20First-16a34a?style=for-the-badge)
 
 </div>
 
 ## Lawrence (Laawrr)
-Full-Stack Developer and Cybersecurity Specialist focused on engineering secure, scalable, and high-performance digital products.
+Full-Stack Developer and Cybersecurity Specialist building secure, production-ready applications.
 
-## About Me
-- I build end-to-end applications, from UX-focused frontend interfaces to robust backend APIs and deployment.
-- I apply security-first thinking across the software lifecycle: design, development, testing, and operations.
-- I focus on maintainable architecture, secure coding practices, and resilient infrastructure.
-
-## Core Specializations
-
-### Full-Stack Engineering
-- Responsive frontend systems with modern JavaScript frameworks.
-- Scalable backend APIs and service integrations.
-- Cloud-connected applications optimized for performance and reliability.
-
-### Cybersecurity
-- Secure architecture and threat-aware application design.
-- API and web security aligned with OWASP best practices.
-- Defensive hardening, vulnerability awareness, and security-focused development workflows.
+## Specializations
+`Full-Stack Engineering` `Application Security` `API Security` `Cloud-Ready Systems`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security-Secure%20Coding-0F172A?style=for-the-badge" alt="Secure Coding" />
-  <img src="https://img.shields.io/badge/Security-OWASP%20Practices-334155?style=for-the-badge" alt="OWASP Practices" />
-  <img src="https://img.shields.io/badge/Security-API%20Security-475569?style=for-the-badge" alt="API Security" />
-  <img src="https://img.shields.io/badge/Security-Defense%20Mindset-64748B?style=for-the-badge" alt="Defense Mindset" />
+  <img src="https://img.shields.io/badge/Secure%20Coding-22c55e?style=flat-square&logo=hackthebox&logoColor=white" alt="Secure Coding" />
+  <img src="https://img.shields.io/badge/OWASP%20Mindset-0f172a?style=flat-square" alt="OWASP Mindset" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-1e293b?style=flat-square" alt="Threat Modeling" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Aware-334155?style=flat-square" alt="Vulnerability Aware" />
+  <img src="https://img.shields.io/badge/Linux%20Hardening-475569?style=flat-square" alt="Linux Hardening" />
 </p>
 
 ## Tech Stack
@@ -57,7 +44,7 @@ Full-Stack Developer and Cybersecurity Specialist focused on engineering secure,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
 </p>
 
-### Backend & APIs
+### Backend and API
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" />
@@ -66,20 +53,16 @@ Full-Stack Developer and Cybersecurity Specialist focused on engineering secure,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42" />
 </p>
 
-### Databases & BaaS
+### Data and Cloud
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42" />
-</p>
-
-### Mobile & Cloud
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="42" height="42" />
 </p>
 
-### Developer Tools
+### Dev and Security Environment
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
@@ -87,13 +70,11 @@ Full-Stack Developer and Cybersecurity Specialist focused on engineering secure,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="42" height="42" />
 </p>
 
-### Security & Infrastructure Focus
+### Security Focus
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Security-OWASP-111827?style=flat-square" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Practice-Threat%20Modeling-111827?style=flat-square" alt="Threat Modeling" />
-  <img src="https://img.shields.io/badge/Practice-Secure%20Code%20Review-111827?style=flat-square" alt="Secure Code Review" />
-  <img src="https://img.shields.io/badge/Practice-Vulnerability%20Assessment-111827?style=flat-square" alt="Vulnerability Assessment" />
-  <img src="https://img.shields.io/badge/Infra-Linux%20Hardening-111827?style=flat-square" alt="Linux Hardening" />
+  <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-0f172a?style=for-the-badge" alt="OWASP Top 10" />
+  <img src="https://img.shields.io/badge/API-Security%20Testing-1e293b?style=for-the-badge" alt="API Security Testing" />
+  <img src="https://img.shields.io/badge/SDLC-Secure%20Development-334155?style=for-the-badge" alt="Secure Development" />
 </p>
 
 ## Connect With Me
@@ -104,8 +85,4 @@ Full-Stack Developer and Cybersecurity Specialist focused on engineering secure,
   <a href="https://www.linkedin.com/in/laawrr">
     <img src="https://img.shields.io/badge/LinkedIn-laawrr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpbzNkcjNhMXNsem52Z2pmZXMwenhxMzUxMWw5N2N2dDJ0azhmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgGMcxMm8tQwS4kmZE/giphy.gif" width="100%" alt="Coding animation banner" />
 </p>
